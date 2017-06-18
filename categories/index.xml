@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on TRICK WORK</title>
-    <link>https://anatofuz.github.io/trickwork.jp/categories/</link>
+    <link>https://anatofuz.github.io/trickwork_website_hugo/categories/</link>
     <description>Recent content in Categories on TRICK WORK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>Ltd.TRICK WORK</copyright>
     
-	<atom:link href="https://anatofuz.github.io/trickwork.jp/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://anatofuz.github.io/trickwork_website_hugo/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

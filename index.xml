@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TRICK WORK</title>
-    <link>https://anatofuz.github.io/trickwork.jp/</link>
+    <link>https://anatofuz.github.io/trickwork_website_hugo/</link>
     <description>Recent content on TRICK WORK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>Ltd.TRICK WORK</copyright>
     
-	<atom:link href="https://anatofuz.github.io/trickwork.jp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://anatofuz.github.io/trickwork_website_hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Work</title>
-      <link>https://anatofuz.github.io/trickwork.jp/work/</link>
+      <link>https://anatofuz.github.io/trickwork_website_hugo/work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anatofuz.github.io/trickwork.jp/work/</guid>
+      <guid>https://anatofuz.github.io/trickwork_website_hugo/work/</guid>
       <description>安くはなく 高くもない 適切なお値段で適切な工事を致します．
 平均的な工事料金につきましてはネット等で検索してみてください． 現場にてお見積もり致します．
 当社を信頼して頂ける方はメールにてお問い合わせください．</description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>求人募集</title>
-      <link>https://anatofuz.github.io/trickwork.jp/about/</link>
+      <link>https://anatofuz.github.io/trickwork_website_hugo/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anatofuz.github.io/trickwork.jp/about/</guid>
+      <guid>https://anatofuz.github.io/trickwork_website_hugo/about/</guid>
       <description>  内容  家電量販店の請負業務
 給与  出来高制
 資格   エアコン工事経験3年以上 電気工事士免許  まずはお気軽にお電話,メールをお願い致します  </description>
@@ -35,10 +35,10 @@
     
     <item>
       <title>Contact</title>
-      <link>https://anatofuz.github.io/trickwork.jp/contact/</link>
+      <link>https://anatofuz.github.io/trickwork_website_hugo/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anatofuz.github.io/trickwork.jp/contact/</guid>
+      <guid>https://anatofuz.github.io/trickwork_website_hugo/contact/</guid>
       <description>有限会社 TRICK WORK Email trickwork@earth.ocn.ne.jp 所在地 
 山梨県南アルプス市飯野3701-1 オギノテナントビル2F  twitter</description>
     </item>

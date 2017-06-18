@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://anatofuz.github.io/trickwork.jp//sitemap.xml
+Sitemap: https://anatofuz.github.io/trickwork_website_hugo//sitemap.xml
