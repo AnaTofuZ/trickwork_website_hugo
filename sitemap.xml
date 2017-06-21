@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  
+
   <url>
-    <loc>https://anatofuz.github.io/trickwork_website_hugo//#work</loc>
+    <loc>//#work</loc>
   </url>
-  
+
   <url>
-    <loc>https://anatofuz.github.io/trickwork_website_hugo//#about</loc>
+    <loc>//#about</loc>
   </url>
-  
+
   <url>
-    <loc>https://anatofuz.github.io/trickwork_website_hugo//#contact</loc>
+    <loc>//#contact</loc>
   </url>
-  
+
   <url>
-    <loc>https://anatofuz.github.io/trickwork_website_hugo//#</loc>
+    <loc>//#</loc>
     <priority>0</priority>
   </url>
-  
+
   <url>
-    <loc>https://anatofuz.github.io/trickwork_website_hugo//#</loc>
+    <loc>//#</loc>
     <priority>0</priority>
   </url>
-  
+
   <url>
-    <loc>https://anatofuz.github.io/trickwork_website_hugo//#</loc>
+    <loc>//#</loc>
     <priority>0</priority>
   </url>
-  
+
 </urlset>
